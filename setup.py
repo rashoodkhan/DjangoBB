@@ -57,7 +57,6 @@ setup(name='djangobb_forum',
     setup_requires=['django>=1.5.5'],
     install_requires=[
             'django>=1.5.5',
-            'pillow>=2.1.0',
             'django-haystack==2.1',
             'linaro-django-pagination',
             'south',
